@@ -32,7 +32,8 @@ At Hack With You, we're on a mission to cultivate a community of ethical cyber w
 Become a part of the Hack With You community! Subscribe now to embark on a journey through the fascinating world of cybersecurity. Together, we can foster a safer internet.
 
 ### 🌐 Follow Us:
-- [YouTube](your_youtube_link_here) 🎥
+- [YouTube](https://www.youtube.com/@hackwithyou) 🎥
+- [Instagram](https://www.instagram.com/official_hackwithyou/profilecard/?igsh=c240dXNjMWRnZmt1)
 - [Twitter](your_twitter_link_here) 🐦
 - [LinkedIn](your_linkedin_link_here) 💼
 - [Discord](your_discord_link_here) 💬
